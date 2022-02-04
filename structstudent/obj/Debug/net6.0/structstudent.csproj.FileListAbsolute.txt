@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\structstudent\structstudent\bin\Debug\net6.0\structstudent.exe
+C:\Users\Pavani\source\repos\structstudent\structstudent\bin\Debug\net6.0\structstudent.deps.json
+C:\Users\Pavani\source\repos\structstudent\structstudent\bin\Debug\net6.0\structstudent.runtimeconfig.json
+C:\Users\Pavani\source\repos\structstudent\structstudent\bin\Debug\net6.0\structstudent.dll
+C:\Users\Pavani\source\repos\structstudent\structstudent\bin\Debug\net6.0\ref\structstudent.dll
+C:\Users\Pavani\source\repos\structstudent\structstudent\bin\Debug\net6.0\structstudent.pdb
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.dll
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\ref\structstudent.dll
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.pdb
+C:\Users\Pavani\source\repos\structstudent\structstudent\obj\Debug\net6.0\structstudent.genruntimeconfig.cache
